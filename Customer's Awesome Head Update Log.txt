@@ -1,0 +1,56 @@
+Customer's Awesome Game Update Log
+- Game Property of CON.
+- Written by CustomerON(?)
+- Design of Document by
+
+[ Last update: 30/10/2024 ]
+
+1.0.0 - *Joey Funsack Ripoff*
+Successfully made the game.
+We're not entirely proud of it.
+It's just a remix of a random Scratch project made by a kid.
+There was this weird thing in the game files, better not to touch it.
+When I looked into this "Big Brain's" original game we're remixing, it didn't include it.
+Its kinda sketchy, but whatever. Better not to touch it.
+We may even get a Game Theory episode out of it.
+I'm sure boss would like that.
+
+
+2.0.0 - "Original" Ideas Update
+- Added Lootboxes (and the corresponding Gambling tag in the Gamejolt page)
+- Added Killing RFreddys (and the corresponding Mild Fantasy Violence tag)
+- A Log On Gamejolt button alongside the Gamejolt API.
+- Added a whopping 12 achievements, including one in reference of it for some reason. I'm not complaining, I got mouths to feed.
+- A button to mute the music because it was so annoying and obnoxious.
+- A few lines of "LORE" recorded by Rafa that he said to put in the game. Sounds very stupid, 'gamble to get lore', what next, NFTs? That guy's sick in the head I'm telling you.
+One day I was making the update and I kept hearing some weird fucking noises, to clarify I didnt have any music on so it was me working on the quiet and suddenly I start hearing a string of binary and some screams. There's no audio like that. Well, except the audio from that weird thing. But it never speaks binary so that's kind of funky.
+I just muted the tab. Not like I need to listen to much anyways, the music is obnoxious, Rafa's voice just makes me want to punch my computer and leave shift early.
+
+
+2.5.0 - 'The Pinnicle of Gaming Update'
+- Added achievements that appear on screen instead of finding out you got them after you check Gamejolt.
+- Added like 7 skins for RFreddy. 1/100 chance. No clue where they come from or what the references are, the Artists just sent them. Look stupid.
+- It's been months and no one has done anything regarding it, so I tried to get it off the game. Its annoying to work with it, you'll be buying RFreddys and suddenly it appears and ruins your game. Everytime I deleted it, it came back, so I just made it so it cannot "attack" the instant it changes the shop icon. See how it likes it.
+- Added a Warning Screen regarding how loud this goddamn game is. Apparently CON almost got sued for it or something. Should have expected that when several of the game audios are the loudest thing ever since earrape.
+It seems as if I'm the only one in this building that knows how to do stuff coherently. Paúl sent me some code for the achievement mumbo jumbo and it was just like- so incoherent. Why would you need to make an Achievement Checker for something you can only get once????
+
+2.5.1 - Hotfix Prior to Official Release
+- Fixed being able to get the Gamejolt Trophy achievement several times.
+- Added "RFreddy Ellie-toons". You make fun of us, we make fun of you.
+- Added that one scrapped shop sprite Rafa made, as a "Hey remixers, remix this". He just wants free labor or something.
+Another thing appeared into the game files while I was working into the lootboxes. Seems rarer and not harmful at all. Also, really low chance, and hides away like a little coward. Hopefully no one notices it at all. Heard it speaking in reverse. This game is haunted. What next? A fucking RFreddy with bloody eyes? Don't answer me.
+
+2.5.2 - Golden RFreddy, another annoyance.
+- Added Golden RFreddy, who has a 1/1000 chance of jumpscaring the player after buying an Awesome RFreddy.
+Rafa said that "He got a funny idea with Emmanuel."
+Thankfully it was something simple and not another cosplay or visual achievement incident. I'll tell Paúl to do whatever they want next. I'm done with this excuse of a game.
+
+2.6.0 - Scores.
+- Fancier text for the "AWESOME POINTS" and "AWESOME POINTS PER SECOND".
+- RFreddys now Truly Die.
+- Added the Scores/Leaderboards.
+- The anomaly now acts (unintentional, fix in 2.6.1)
+For some reason, Rafa decided to release an update "in time for Halloween". A last one, to add something he 'thought of' and polish the game. Guess who had to code it. Just me. Because Paul took the week off.
+On another note, the anomaly attacked during my playtesting. It seems as if it attacks after a random amount of time of being alive, and blocks up every RFreddy on the screen. Doesn't really matter, and maybe people make crazy theories... I didn't find his sprite, so I'm gonna guess he's embeded into the code of the game deep within.
+
+(This marks the end of our journey.)
